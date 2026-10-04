@@ -171,8 +171,8 @@ SENTIMENT_MODEL_NAME="ProsusAI/finbert"
 1. Clone the Workspace Repository
 
 ```Bash
-git clone [https://github.com/ItzzKK03/stock-price-predictor-KK-v3.git](https://github.com/ItzzKK03/stock-price-predictor-KK-v3.git)
-cd stock-price-predictor-KK-v3
+git clone [https://github.com/rishabh-codess/Stock-Price-Predictor-V2](https://github.com/rishabh-codess/Stock-Price-Predictor-V2)
+cd Stock-Price-Predictor-V2
 ```
 
 2. Set Up a Virtual Environment & Dependencies
@@ -230,4 +230,4 @@ pytest --cov=src tests/ -v
 
 ## 👨‍💻 Engineering Core
 
-Kartik Kant — Artificial Intelligence & Machine Learning Engineer
+Rishabh Kumar — Artificial Intelligence & Machine Learning Engineer
